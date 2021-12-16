@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "Linkedin-Clone",
+  "homepage": "https://Surajpok.github.io/Linkedin-Clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
